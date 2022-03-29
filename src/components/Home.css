@@ -1,0 +1,9 @@
+.slider-img{
+    display: inline-flex;
+    text-align: center;
+    overflow: hidden;
+}
+.slider-img img{
+    width: 380pt;
+    margin-top: 34px;   
+}

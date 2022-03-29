@@ -1,0 +1,26 @@
+.main-body{
+    background-color:beige;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+}
+/* #about-page-background{
+    background-image: url('../images/img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.my-card-com{
+    border-radius: 25px;
+    box-shadow: gray 0px 0px 2px 1px;
+}
+.my-card-com:hover{
+    box-shadow: gray 0px 0px 3px 2px;
+}
+.my-card-com img{
+    width:220px;
+
+}
+.card-img-top{
+    align-self: center;
+}
